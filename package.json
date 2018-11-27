@@ -1,0 +1,27 @@
+{
+  "name": "gps",
+  "version": "1.0.0",
+  "description": "gps web service",
+  "main": "gps.js",
+  "dependencies": {
+    "log": "^1.4.0",
+    "moment": "^2.18.1",
+    "mssql": "^4.0.4",
+    "nodemon": "^1.18.6",
+    "request": "^2.82.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/arminasp/gpsService.git"
+  },
+  "author": "armin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/arminasp/gpsService/issues"
+  },
+  "homepage": "https://gitlab.com/arminasp/gpsService#README"
+}
